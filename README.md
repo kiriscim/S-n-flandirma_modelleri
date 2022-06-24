@@ -1,5 +1,5 @@
 # Siniflandirma_modelleri
-# Sınıflandırma Modelleri
+# Siniflandırma Modelleri
 
 import numpy as np
 import pandas as pd 
